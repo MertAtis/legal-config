@@ -124,5 +124,15 @@
       "description": "Kira süresinin bitmesi sebebiyle ilamsız tahliye takibinde tahliye emrine itiraz süresi tebliğden itibaren 7 gündür.",
       "adliTatilApplies": false
     }
+  ],
+"trafik": [
+    {
+      "name": "Trafik Cezasına İtiraz",
+      "value": 15,
+      "unit": "day",
+      "lawReference": "Kabahatler Kanunu m. 27/1",
+      "description": "5326 S.K Md. 27 uyarınca hesaplanmıştır, Sulh Ceza Hakimliği'ne itiraz edilmelidir.",
+      "adliTatilApplies": false
+    }
   ]
 }
