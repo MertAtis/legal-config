@@ -22,7 +22,7 @@
       "unit": "day",
       "lawReference": "Kabahatler Kanunu m. 27/1",
       "description": "Savcılık veya idari mercilerce verilen idari para cezası kararlarına karşı Sulh Ceza Hakimliğine başvuru süresi tebliğden itibaren 15 gündür.",
-      "adliTatilApplies": true
+      "adliTatilApplies": false
     }
   ],
   "mahkeme": [
