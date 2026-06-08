@@ -1,0 +1,136 @@
+{
+  "savcilik": [
+    {
+      "name": "KYOK (Takipsizlik) İtirazı",
+      "value": 2,
+      "unit": "week",
+      "lawReference": "CMK m. 173/1",
+      "description": "Cumhuriyet Savcısının kovuşturmaya yer olmadığı kararına (takipsizlik) itiraz süresi tebliğden itibaren 2 haftadır.",
+      "adliTatilApplies": true
+    },
+    {
+      "name": "Savcılık Kararlarına Genel İtiraz",
+      "value": 2,
+      "unit": "week",
+      "lawReference": "CMK m. 268",
+      "description": "Kanunda aksi belirtilmeyen hallerde savcılık kararlarına itiraz süresi 2 haftadır.",
+      "adliTatilApplies": true
+    },
+    {
+      "name": "İdari Para Cezalarına İtiraz",
+      "value": 15,
+      "unit": "day",
+      "lawReference": "Kabahatler Kanunu m. 27/1",
+      "description": "Savcılık veya idari mercilerce verilen idari para cezası kararlarına karşı Sulh Ceza Hakimliğine başvuru süresi tebliğden itibaren 15 gündür.",
+      "adliTatilApplies": true
+    }
+  ],
+  "mahkeme": [
+    {
+      "name": "Hukuk Mahkemeleri Cevap Dilekçesi",
+      "value": 2,
+      "unit": "week",
+      "lawReference": "HMK m. 127",
+      "description": "Dava dilekçesinin tebliğinden itibaren cevap dilekçesi verme süresi 2 haftadır.",
+      "adliTatilApplies": true
+    },
+    {
+      "name": "Hukuk Mahkemeleri İstinaf Başvurusu",
+      "value": 2,
+      "unit": "week",
+      "lawReference": "HMK m. 345",
+      "description": "Hukuk mahkemesi kararlarına karşı istinaf yoluna başvuru süresi tebliğden itibaren 2 haftadır.",
+      "adliTatilApplies": true
+    },
+    {
+      "name": "Yargıtay Temyiz Başvurusu (Hukuk)",
+      "value": 2,
+      "unit": "week",
+      "lawReference": "HMK m. 361",
+      "description": "Bölge Adliye Mahkemesi hukuk dairelerinin kararlarına karşı temyiz süresi tebliğden itibaren 2 haftadır.",
+      "adliTatilApplies": true
+    },
+    {
+      "name": "Ceza Mahkemeleri İstinaf Başvurusu",
+      "value": 2,
+      "unit": "week",
+      "lawReference": "CMK m. 273",
+      "description": "Ceza mahkemesi kararlarına karşı istinaf yoluna başvuru süresi tebliğden itibaren 2 haftadır.",
+      "adliTatilApplies": true
+    },
+    {
+      "name": "Yargıtay Temyiz Başvurusu (Ceza)",
+      "value": 2,
+      "unit": "week",
+      "lawReference": "CMK m. 291",
+      "description": "Bölge Adliye Mahkemesi ceza dairelerinin kararlarına karşı temyiz süresi tebliğden itibaren 2 haftadır.",
+      "adliTatilApplies: true
+    },
+    {
+      "name": "Ceza Mahkemeleri Kararlarına İtiraz",
+      "value": 2,
+      "unit": "week",
+      "lawReference": "CMK m. 268",
+      "description": "Ceza mahkemelerinin itiraza tabi kararlarına karşı itiraz süresi tebliğ veya tefhimden itibaren 2 haftadır.",
+      "adliTatilApplies": true
+    },
+    {
+      "name": "İdari Yargı Dava Açma / İstinaf",
+      "value": 30,
+      "unit": "day",
+      "lawReference": "İYUK m. 7 / m. 45",
+      "description": "İdare ve Vergi Mahkemesi kararlarına karşı dava açma ve istinaf süresi tebliğden itibaren 30 gündür.",
+      "adliTatilApplies": true
+    },
+    {
+      "name": "Danıştay Temyiz Başvurusu",
+      "value": 30,
+      "unit": "day",
+      "lawReference": "İYUK m. 46",
+      "description": "Bölge İdare Mahkemesi kararlarına karşı temyiz süresi tebliğ tarihini izleyen günden itibaren 30 gündür.",
+      "adliTatilApplies": true
+    }
+  ],
+  "icra": [
+    {
+      "name": "İlamsız İcra Takibine İtiraz (Ödeme Emri)",
+      "value": 7,
+      "unit": "day",
+      "lawReference": "İİK m. 62/1",
+      "description": "İlamsız icra takiplerinde ödeme emrine itiraz süresi tebliğden itibaren 7 gündür.",
+      "adliTatilApplies": false
+    },
+    {
+      "name": "Kambiyo Senetlerine Özgü Takip İtirazı",
+      "value": 5,
+      "unit: "day",
+      "lawReference": "İİK m. 168/4",
+      "description": "Kambiyo senetlerine (çek, poliçe, bono) mahsus haciz yolunda ödeme emrine itiraz süresi tebliğden itibaren 5 gündür.",
+      "adliTatilApplies": false
+    },
+    {
+      "name": "İcra Dairesi İşlemlerine Şikayet",
+      "value": 7,
+      "unit": "day",
+      "lawReference": "İİK m. 16",
+      "description": "İcra dairesi işlemlerinin kanuna aykırı olması veya hadiseye uygun olmaması nedeniyle icra mahkemesine şikayet süresi 7 gündür.",
+      "adliTatilApplies": false
+    },
+    {
+      "name": "İcra Mahkemesi Nihai Kararlarına İstinaf",
+      "value": 10,
+      "unit": "day",
+      "lawReference": "İİK m. 363/1",
+      "description": "İcra mahkemesince verilmiş bulunan nihai kararlara karşı istinaf süresi tebliğden itibaren 10 gündür.",
+      "adliTatilApplies": false
+    },
+    {
+      "name": "İlamsız Tahliye Emrine İtiraz",
+      "value": 7,
+      "unit": "day",
+      "lawReference": "İİK m. 272",
+      "description": "Kira süresinin bitmesi sebebiyle ilamsız tahliye takibinde tahliye emrine itiraz süresi tebliğden itibaren 7 gündür.",
+      "adliTatilApplies": false
+    }
+  ]
+}
