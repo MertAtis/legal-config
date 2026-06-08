@@ -9,14 +9,6 @@
       "adliTatilApplies": true
     },
     {
-      "name": "Savcılık Kararlarına Genel İtiraz",
-      "value": 2,
-      "unit": "week",
-      "lawReference": "CMK m. 268",
-      "description": "Kanunda aksi belirtilmeyen hallerde savcılık kararlarına itiraz süresi 2 haftadır.",
-      "adliTatilApplies": true
-    },
-    {
       "name": "İdari Para Cezalarına İtiraz",
       "value": 15,
       "unit": "day",
